@@ -1,2 +1,2 @@
-# MHacksDemo
+# {{ title }}
 ---
