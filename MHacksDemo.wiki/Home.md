@@ -1,1 +1,5 @@
-Welcome to the MHacksDemo wiki!
+## Readme
+{{ readme }}
+
+----
+### Contents
