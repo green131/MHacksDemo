@@ -1,5 +1,1 @@
-## Readme
-{{ readme }} 
-
-----
 ### Contents
