@@ -33,7 +33,7 @@ public class Maze {
 	final int MAZELENGTH;
 
 	/**
-	 * An object class representing a maze.
+	 * An object class representing the maze.
 	 *
 	 * @param	maze		A 2D representation of a maze.
 	 * @param	MAZEHEIGHT	The height of the coordinate maze.
