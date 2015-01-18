@@ -1,1 +1,1 @@
-# MHacksDemo
+This is a maze solving solution that is resistant to loops and challenging designs.
